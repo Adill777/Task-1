@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f9a781cb-9245-41e5-9d35-9270d0daba32)# Task 1 - Network Port Scanning
+# Task 1 - Network Port Scanning
 
 # Tools Used
 - Nmap
